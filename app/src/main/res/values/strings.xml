@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">SecurityLab</string>
+    <string name="app_name">14098949App1</string>
+    <string name="message_hint">Enter your message here</string>
+    <string name="password_hint">Enter your password here</string>
+    <string name="encrypt">Encrypt</string>
+    <string name="decrypt">Decrypt</string>
 </resources>
