@@ -24,7 +24,7 @@
         android:layout_height="wrap_content"
         android:layout_margin="16dp"
         android:hint="@string/password_hint"
-        android:inputType="textPassword"
+        android:inputType="textVisiblePassword"
         android:padding="4dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
